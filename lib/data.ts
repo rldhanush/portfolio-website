@@ -55,6 +55,7 @@ export const experiencesData = [
   {
     title: "PG Diploma in Data Science and Business Analytics",
     location: "Texas McCombs Business School",
+    description: "",
     icon: React.createElement(IoIosCode),
     date: "2021 - 2022",
   },
